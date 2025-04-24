@@ -129,3 +129,8 @@ golf-score-tracker/
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
+<img width="1800" alt="Screenshot 2025-04-23 at 9 21 07 PM" src="https://github.com/user-attachments/assets/7f2d0562-d4f3-49da-9bea-669741546e03" />
+
